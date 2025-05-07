@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [Password Store Manager](https://github.com/yourusername/password-store-manager)
+### 🔐 [Password Store Manager]([https://github.com/Sundeepgantyada09/Password-Store-Manager])
 A secure desktop password manager built using **.NET (C#)** and **MySQL**.  
 🔸 Features: Encrypted storage, user authentication, password generation  
 🔸 Stack: WinForms + ADO.NET + MySQL  
@@ -40,7 +40,7 @@ A secure desktop password manager built using **.NET (C#)** and **MySQL**.
 
 ---
 
-### 🍽️ [Online Food Ordering Web App](https://github.com/yourusername/food-ordering-app)
+### 🍽️ [Online Food Ordering Web App](https://github.com/anudeepamara/GeekSquad.github.io)
 Full-stack web app for browsing, customizing, and ordering food.  
 🔸 Stack: **Java**, **Spring Boot**, **React**, **Oracle SQL / MariaDB**  
 🔸 Features: Dynamic pricing, menu customization, real-time ordering  
