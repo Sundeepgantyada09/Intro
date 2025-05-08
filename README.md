@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:gantyadasundeep.work@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/gantyada" target="_blank">LinkedIn</a> • 
-  <a href="https://leetcode.com/zPPDaBlE4F" target="_blank">LeetCode</a>
+  <a href="https://leetcode.com/u/Sundeep09/" target="_blank">LeetCode</a>
 </p>
 
 ---
