@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 [Password Store Manager]([https://github.com/Sundeepgantyada09/Password-Store-Manager])
+### 🔐 [Password Store Manager](https://github.com/Sundeepgantyada09/Password-Store-Manager )
 A secure desktop password manager built using **.NET (C#)** and **MySQL**.  
 🔸 Features: Encrypted storage, user authentication, password generation  
 🔸 Stack: WinForms + ADO.NET + MySQL  
@@ -75,7 +75,7 @@ Sathyabama University — *GPA: 8.03/10*
 
 💌 Email: gantyadasundeep.work@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/gantyada](https://linkedin.com/in/gantyada)  
-🧠 LeetCode: [zPPDaBlE4F](https://leetcode.com/zPPDaBlE4F)
+🧠 LeetCode: [LeetCode](https://leetcode.com/u/Sundeep09/)
 
 ---
 
